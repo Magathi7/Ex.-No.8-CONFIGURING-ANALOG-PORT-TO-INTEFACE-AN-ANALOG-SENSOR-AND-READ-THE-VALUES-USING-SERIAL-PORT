@@ -1,6 +1,5 @@
 ### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
 ## Date: 14.11.25
-###  
 
 ## Aim: 
 To configure ADC channel for interfacing an analog sensor and read the values on the com port 
@@ -478,14 +477,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 ```
+## Output  :
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/060e7abc-6b95-44ee-a4bd-bedf34746727" />
 
- 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c8c959fa-e453-48dc-a82f-483ff5c4f304" />
 
 ## Result :
- 
-## Output  :
-
-
-
-
-
+	
+	Hence,the configuring analog port to inteface an analog sensor and read the values using serial port runned successfully.
