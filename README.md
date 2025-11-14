@@ -482,6 +482,4 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c8c959fa-e453-48dc-a82f-483ff5c4f304" />
 
-## Result :
-	
-	Hence,the configuring analog port to inteface an analog sensor and read the values using serial port runned successfully.
+## Result : Hence,the configuring analog port to inteface an analog sensor and read the values using serial port runned successfully.
